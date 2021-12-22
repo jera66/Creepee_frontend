@@ -1,0 +1,8 @@
+:root{
+    --main-color: green;
+    --gradient: linear-gradient(80deg,  green,  gray);
+    --dark-green: rgb(9, 44, 9);
+}
+a {
+    color: var(--dark-green) !important;
+}
