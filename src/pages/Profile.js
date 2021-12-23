@@ -9,7 +9,7 @@ function Profile() {
                         <img  style={{width:  "160px",  height: "160px",  borderRadius:  "80px"}} src="https://i.imgur.com/Zl6sg1n.jpg?1"  alt="profile"/>
                     </div>
                         <div>
-                                <h4>Jane Doe</h4>
+                                <h4>Jerathel Jean</h4>
                                 <div  className="user-info">
                                         <h6>7k posts</h6>
                                         <h6>10M followers</h6>
