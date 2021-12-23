@@ -5,10 +5,20 @@
     --gradient: linear-gradient(80deg,  green,  gray);
     --dark-green: rgb(9, 44, 9);
 }
- 
-a {
-    color: white !important;
+
+.login-container {
+    margin-top: 35px;
+    font-size: 0.8rem;
 }
-.brand-logo {
+
+.login-card {
+    padding: 22px;
+    text-align: center;
+    max-width: 480px;
+    margin: 10px auto;
+
+}
+.login-card  h2 {
     font-family: 'Grand Hotel', cursive;
+    color: var(--main-color);
 }
