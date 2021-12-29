@@ -16,7 +16,7 @@
     text-align: center;
     max-width: 480px;
     margin: 10px auto;
-
+    background:linear-gradient(88deg,  rgb(45, 116, 45),  rgb(59, 50, 50));
 }
 .login-card  h2 {
     font-family: 'Grand Hotel', cursive;

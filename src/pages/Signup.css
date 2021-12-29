@@ -21,4 +21,8 @@
 .login-card  h2 {
     font-family: 'Grand Hotel', cursive;
     color: var(--main-color);
+    text-shadow: 4px 2px rgb(15, 46, 15);
+}
+button {
+    background: linear-gradient(88deg,  rgb(27, 75, 27),  rgb(82, 74, 74));
 }

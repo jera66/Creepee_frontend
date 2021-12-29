@@ -3,7 +3,11 @@
     max-width:  550px;
     padding: 22px;
     text-align: center;
+    background:linear-gradient(88deg,  rgb(45, 116, 45),  rgb(59, 50, 50));
 }
 body  {
-    background: url('');
+    background:linear-gradient(88deg,  rgb(45, 116, 45),  rgb(59, 50, 50));
+}
+.btn {
+    background:linear-gradient(88deg,  rgb(45, 116, 45),  rgb(59, 50, 50));
 }

@@ -7,8 +7,12 @@
 }
  
 a {
-    color: white !important;
+    color: green !important;
 }
 .brand-logo {
     font-family: 'Grand Hotel', cursive;
+    text-shadow: 1px 1px rgb(239, 243, 239);
+}
+.nav-wrapper {
+    background:linear-gradient(88deg,  rgb(39, 70, 39),  rgb(59, 50, 50));
 }
